@@ -69,7 +69,7 @@ const TodoApp = () => {
         {todoList.map((todo) => (
           <div
             key={todo.id}
-            className="flex justify-between items-center w-full my-2 bg-slate-50 rounded-full"
+            className="flex justify-between items-center w-full my-2 bg-slate-50 text-black rounded-full"
           >
             <div className="p-2 flex gap-3">
               <input
