@@ -2,7 +2,6 @@ import Appdetail from "@/components/Appdetail"
 import Footer from "@/components/Footer"
 import Header from "@/components/Header";
 import Todolist from "@/components/Todolist";
-import Image from "next/image";
 
 export default function Home() {
   return (

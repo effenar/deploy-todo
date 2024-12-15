@@ -3,7 +3,7 @@ import React from "react";
 const  Appdetail = () => {
     return (
         <div className="text-sm text-center justify-center">
-            <h1>This app is made for all "Magerian" out there, </h1>
+            <h1>This app is made for all "Magerian" out there,</h1>
             <h1>so if you are the one, let's make your list and become the Go-Getter</h1>
             <br />
             <br />
